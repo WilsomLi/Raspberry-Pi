@@ -11,7 +11,6 @@ Raspberry Pi Script Tools
 
 [Desktop Entry]
 Name=example
-
 Comment=My Python Program
 Exec=python /home/pi/example.py
 Icon=/home/pi/example.png
