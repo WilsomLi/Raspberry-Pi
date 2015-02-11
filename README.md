@@ -8,7 +8,6 @@ Raspberry Pi Script Tools
 
 方法2：
 在 /home/pi/.config 下创建一个文件夹，名称为 autostart，并在该文件夹下创建一个xxx.desktop文件（文件名以.desktop结尾，前面可以自定义），文件内容如下：
-
 [Desktop Entry]
 Name=example
 Comment=My Python Program
