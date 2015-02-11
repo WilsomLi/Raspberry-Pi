@@ -11,13 +11,21 @@ Raspberry Pi Script Tools
 
 [Desktop Entry]
 Name=example
+
 Comment=My Python Program
+
 Exec=python /home/pi/example.py
+
 Icon=/home/pi/example.png
+
 Terminal=false
+
 MultipleArgs=false
+
 Type=Application
+
 Categories=Application;Development;
+
 StartupNotify=true
 
 
