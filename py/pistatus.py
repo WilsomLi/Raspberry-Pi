@@ -1,4 +1,4 @@
-# pi相关信息查看
+# git pi running status
 
 import os
  

@@ -1,4 +1,4 @@
-# 温度过高，自动冷却
+# auto cool
 
 import commands,time
 import RPi.GPIO as io
